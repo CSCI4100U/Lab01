@@ -123,7 +123,7 @@ _**Note:**  The biggest advantage of running in the Terminal/Command Prompt is t
 ### Creating and Running a Flutter Project Within VS Code
 Create a new Flutter project, called lab01b, by selecting `Command Palette…` from the `View` menu, and typing `Flutter: New Project`.  Next, run your AVD by selecting `Command Palette…` from the `View` menu, and typing `Flutter: Launch Emulator`.    Finally, run the project using Start Debugging from the Debug menu (or `F5`).  VS Code will give you the option to open the Dev Tools web page.  It is recommended that you do, so that you can explore the widget tree while debugging.
 
-Regardless of which way you created the project, run the application, and explore the code in lib/main.dart.
+Regardless of which way you created the project, run the application, and explore the code in `lib/main.dart`.
 
 ## Getting Help
 If you run into difficulty, you may wish to check out some of the following resources:
