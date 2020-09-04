@@ -22,10 +22,10 @@ _**Note:**  A commercial (but free) IDE, IntelliJ, is also available with Androi
 Follow the installation prompts to install Android Studio (or IntelliJ).  Next, we'll need to install the Flutter plug-in, which allows the creation and execution of Flutter projects from within Android Studio (or IntelliJ).
 
 #### Windows and Linux Users:
-In the File menu, select Settings.  Choose Plugins on the left, find the Flutter plug-in, and install it.  The Dart plug-in will also need to be installed, as the Flutter plug-in depends on it.  You will need to restart Android Studio.
+In the `File` menu, select `Settings`.  Choose `Plugins` on the left, find the `Flutter` plug-in, and install it.  The `Dart` plug-in will also need to be installed, as the `Flutter` plug-in depends on it.  You will need to restart Android Studio.
 
 #### MacOS Users:
-In the Preferences menu, select Plugins.  Find the Flutter plug-in, and install it.  The Dart plug-in will also need to be installed, as the Flutter plug-in depends on it.  You will need to restart Android Studio.
+In the `Preferences` menu, select `Plugins`.  Find the `Flutter` plug-in, and install it.  The `Dart` plug-in will also need to be installed, as the `Flutter` plug-in depends on it.  You will need to restart Android Studio.
 
 _**Note:**  Installation of the Flutter plug-in for IntelliJ is very similar._
 
