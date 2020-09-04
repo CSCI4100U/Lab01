@@ -3,11 +3,11 @@ The starter code for lab 01.
 
 ## Part 1
 For the first part of this lab, you will install some software that we will use throughout this course.  Additional instructions for installation in various editors can be found at the following location:
-•	https://flutter.dev/docs/get-started/install
+- https://flutter.dev/docs/get-started/install
 
 ### Installing the Flutter SDK
 First, we need to install the Flutter SDK.  This includes the Flutter development toolchain, including the builder, the engine, and the command line tools.  Download and install this SDK from the following location:
-•	https://flutter.dev/docs/get-started/install
+- https://flutter.dev/docs/get-started/install
 
 ### Installing Android Studio/Android SDK
 Next, we need to install Android Studio.  Even if you do not want to use Android Studio for development, you need the Android SDK that it installs.
@@ -44,7 +44,7 @@ That was it, you can now shut down Android Studio (or IntelliJ) and move onto th
 ### Installing a Text Editor
 You should also install a text editor.  This is very personal, and you are welcome to use any text editor that you wish, but it is advisable to choose a text editor that has syntax highlighting for Dart.  Some popular text editors include:
 - VS Code:	https://code.visualstudio.com/download  
-- Atom:  		http://atom.io 
+- Atom:  	http://atom.io 
 - Brackets:	http://brackets.io 
 - Sublime:	https://www.sublimetext.com/ (not free)
 
@@ -121,7 +121,7 @@ $ flutter run
 _**Note:**  The biggest advantage of running in the Terminal/Command Prompt is that you can manually hot reload the application, which is necessary when some changes are made to the code._
 
 ### Creating and Running a Flutter Project Within VS Code
-Create a new Flutter project, called lab01b, by selecting Command Palette… from the View menu, and typing Flutter: New Project.  Next, run your AVD by selecting Command Palette… from the View menu, and typing Flutter: Launch Emulator.    Finally, run the project using Start Debugging from the Debug menu (or F5).  VS Code will give you the option to open the Dev Tools web page.  It is recommended that you do, so that you can explore the widget tree while debugging.
+Create a new Flutter project, called lab01b, by selecting `Command Palette…` from the `View` menu, and typing `Flutter: New Project`.  Next, run your AVD by selecting `Command Palette…` from the `View` menu, and typing `Flutter: Launch Emulator`.    Finally, run the project using Start Debugging from the Debug menu (or `F5`).  VS Code will give you the option to open the Dev Tools web page.  It is recommended that you do, so that you can explore the widget tree while debugging.
 
 Regardless of which way you created the project, run the application, and explore the code in lib/main.dart.
 
@@ -139,4 +139,4 @@ If you run into difficulty, you may wish to check out some of the following reso
 Of course, you can always ask the TA for help!  However, learning how to find the answers out for yourself is not only more satisfying, but results in greater learning as well.
 
 ## How to Submit
-Create your flutter project inside this folder, commit, and then push your code to this repository to submit your lab assignment.
+Create your flutter projects inside this folder, commit, and then push your code to this repository to submit your lab assignment.
