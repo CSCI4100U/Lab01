@@ -48,9 +48,9 @@ You should also install a text editor.  This is very personal, and you are welco
 - Brackets:	http://brackets.io 
 - Sublime:	https://www.sublimetext.com/ (not free)
 
-In this lab, we'll be using Visual Studio Code.  The instructor will also be using VS Code in the lectures because it provides a better developer experience.  Therefore, these instructions are for VS Code.  If you use any other text editor, you'll most likely be using the command line as there likely is not a Flutter plug-in for it.
+The instructor will also be using Android Studio in the lectures, but some may prefer to use Visual Studio because it provides them with a better developer experience.  If you use any other text editor, you'll most likely be using the command line as there likely is not a Flutter plug-in for it.
 
-Start Visual Studio Code, and select Command Palette… from the View menu.  In the command palette that pops up, choose Extensions: Install Extensions.  Select the Flutter plug-in, and install it.  The Dart plug-in will also be installed, since the Flutter plug-in depends on it.
+If you wish to use Visual Studio, start Visual Studio Code, and select Command Palette… from the View menu.  In the command palette that pops up, choose Extensions: Install Extensions.  Select the Flutter plug-in, and install it.  The Dart plug-in will also be installed, since the Flutter plug-in depends on it.
 
 ## Part 2
 Now that we have the software that we need, let's write your own app in Flutter.  These instructions are for VS Code.  If using Android Studio or IntelliJ, the New Project menu item will have a Flutter option, and it relatively straightforward.
