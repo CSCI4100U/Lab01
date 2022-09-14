@@ -30,7 +30,7 @@ In the `Preferences` menu, select `Plugins`.  Find the `Flutter` plug-in, and in
 _**Note:**  Installation of the Flutter plug-in for IntelliJ is very similar._
 
 ### Installing an Android Platform
-Run Android Studio, and select SDK Manager from the Tools menu.  On the left, select Appearance & Behavior -> System Settings -> Android SDK.  From the list, choose a version of Android that you'd like to use when running your applications.  It is recommended that you avoid any pre-release versions, as development tools for those versions are often buddy and unsupported.  It is also recommended that you choose a relatively recent version, since they usually provide a better experience (for developers and users).
+Run Android Studio, and select SDK Manager from the Tools menu.  On the left, select Appearance & Behavior -> System Settings -> Android SDK.  From the list, choose a version of Android that you'd like to use when running your applications.  It is recommended that you avoid any pre-release versions, as development tools for those versions are often buggy and unsupported.  It is also recommended that you choose a relatively recent version, since they usually provide a better experience (for developers and users).
 
 _**Note:** Even though we are using Android Studio (or IntelliJ) for this step, using a programmer's text editor still requires that you install the version of Android you will use, and creating a virtual device (in the next step).  Don't skip this step if you intend to use VS Code._
 
